@@ -2,7 +2,7 @@ import time
 
 
 class Nature:
-    def __init__(self, weather, temperature) -> None:
+    def __init__(self, weather, temperature):
         self.time = time.localtime()
         self.weather = weather
         self.temperature = temperature
