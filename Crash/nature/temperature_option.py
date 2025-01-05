@@ -1,5 +1,5 @@
 import random
-from weather_option import weather_random
+from .weather_option import weather_random
 
 
 def temperature_now():

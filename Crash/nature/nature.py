@@ -1,6 +1,6 @@
 import time
-from weather_option import weather_random
-from temperature_option import temperature_now
+from .weather_option import weather_random
+from .temperature_option import temperature_now
 
 
 class Nature:

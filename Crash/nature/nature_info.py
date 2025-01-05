@@ -1,4 +1,4 @@
-from nature import Nature
+from .nature import Nature
 
 
 def show_nature():
